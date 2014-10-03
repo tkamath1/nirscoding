@@ -1,0 +1,516 @@
+ 0: 1:23 (20818 samppoints)  EVENT1
+ 0: 1:24 (21068 samppoints)  EVENT1
+ 0: 1:24 (21134 samppoints)  EVENT1
+ 0: 1:24 (21196 samppoints)  EVENT1
+ 0: 1:25 (21259 samppoints)  EVENT1
+ 0: 1:25 (21322 samppoints)  EVENT1
+ 0: 1:25 (21384 samppoints)  EVENT1
+ 0: 1:25 (21447 samppoints)  EVENT1
+ 0: 1:26 (21509 samppoints)  EVENT1
+ 0: 1:26 (21572 samppoints)  EVENT1
+ 0: 1:26 (21634 samppoints)  EVENT1
+ 0: 1:26 (21696 samppoints)  EVENT1
+ 0: 1:45 (26288 samppoints)  EVENT1
+ 0: 1:45 (26444 samppoints)  EVENT1
+ 0: 1:46 (26507 samppoints)  EVENT1
+ 0: 1:46 (26569 samppoints)  EVENT1
+ 0: 1:46 (26632 samppoints)  EVENT1
+ 0: 1:46 (26694 samppoints)  EVENT1
+ 0: 1:47 (26757 samppoints)  EVENT1
+ 0: 1:47 (26820 samppoints)  EVENT1
+ 0: 1:47 (26882 samppoints)  EVENT1
+ 0: 1:47 (26945 samppoints)  EVENT1
+ 0: 1:48 (27007 samppoints)  EVENT1
+ 0: 1:48 (27070 samppoints)  EVENT1
+ 0: 1:59 (29756 samppoints)  EVENT1
+ 0: 2: 0 (30007 samppoints)  EVENT1
+ 0: 2: 0 (30070 samppoints)  EVENT1
+ 0: 2: 0 (30132 samppoints)  EVENT1
+ 0: 2: 0 (30195 samppoints)  EVENT1
+ 0: 2: 1 (30258 samppoints)  EVENT1
+ 0: 2: 1 (30320 samppoints)  EVENT1
+ 0: 2: 1 (30383 samppoints)  EVENT1
+ 0: 2: 1 (30445 samppoints)  EVENT1
+ 0: 2: 2 (30508 samppoints)  EVENT1
+ 0: 2: 2 (30571 samppoints)  EVENT1
+ 0: 2: 2 (30633 samppoints)  EVENT1
+ 0: 2: 2 (30696 samppoints)  EVENT1
+ 0: 2: 3 (30758 samppoints)  EVENT1
+ 0: 2: 3 (30821 samppoints)  EVENT1
+ 0: 2:10 (32545 samppoints)  EVENT1
+ 0: 2:10 (32701 samppoints)  EVENT1
+ 0: 2:11 (32763 samppoints)  EVENT1
+ 0: 2:11 (32827 samppoints)  EVENT1
+ 0: 2:11 (32888 samppoints)  EVENT1
+ 0: 2:11 (32951 samppoints)  EVENT1
+ 0: 2:12 (33014 samppoints)  EVENT1
+ 0: 2:12 (33076 samppoints)  EVENT1
+ 0: 2:12 (33139 samppoints)  EVENT1
+ 0: 2:12 (33201 samppoints)  EVENT1
+ 0: 2:13 (33264 samppoints)  EVENT1
+ 0: 2:13 (33326 samppoints)  EVENT1
+ 0: 2:13 (33389 samppoints)  EVENT1
+ 0: 2:13 (33451 samppoints)  EVENT1
+ 0: 2:14 (33515 samppoints)  EVENT1
+ 0: 2:24 (36135 samppoints)  EVENT1
+ 0: 2:25 (36386 samppoints)  EVENT1
+ 0: 2:25 (36448 samppoints)  EVENT1
+ 0: 2:26 (36511 samppoints)  EVENT1
+ 0: 2:26 (36574 samppoints)  EVENT1
+ 0: 2:26 (36637 samppoints)  EVENT1
+ 0: 2:26 (36700 samppoints)  EVENT1
+ 0: 4:10 (62539 samppoints)  EVENT1
+ 0: 4:10 (62695 samppoints)  EVENT1
+ 0: 4:11 (62757 samppoints)  EVENT1
+ 0: 4:11 (62820 samppoints)  EVENT1
+ 0: 4:11 (62882 samppoints)  EVENT1
+ 0: 4:11 (62945 samppoints)  EVENT1
+ 0: 4:12 (63007 samppoints)  EVENT1
+ 0: 4:48 (72132 samppoints)  EVENT1
+ 0: 4:49 (72288 samppoints)  EVENT1
+ 0: 4:50 (72539 samppoints)  EVENT1
+ 0: 4:50 (72601 samppoints)  EVENT1
+ 0: 7:50 (117650 samppoints)  EVENT1
+ 0: 7:53 (118274 samppoints)  EVENT1
+ 0: 7:53 (118430 samppoints)  EVENT1
+ 0: 7:53 (118493 samppoints)  EVENT1
+ 0: 8: 0 (120089 samppoints)  EVENT1
+ 0: 8: 1 (120339 samppoints)  EVENT1
+ 0: 8: 1 (120402 samppoints)  EVENT1
+ 0: 8: 1 (120464 samppoints)  EVENT1
+ 0: 8: 2 (120527 samppoints)  EVENT1
+ 0: 8: 2 (120590 samppoints)  EVENT1
+ 0: 8: 2 (120653 samppoints)  EVENT1
+ 0: 8: 2 (120716 samppoints)  EVENT1
+ 0: 8: 3 (120779 samppoints)  EVENT1
+ 0: 8: 3 (120841 samppoints)  EVENT1
+ 0: 8: 3 (120903 samppoints)  EVENT1
+ 0: 8: 3 (120966 samppoints)  EVENT1
+ 0: 8: 4 (121029 samppoints)  EVENT1
+ 0: 8: 4 (121091 samppoints)  EVENT1
+ 0: 8: 4 (121154 samppoints)  EVENT1
+ 0: 9: 8 (137129 samppoints)  EVENT1
+ 0: 9: 9 (137285 samppoints)  EVENT1
+ 0: 9: 9 (137347 samppoints)  EVENT1
+ 0: 9: 9 (137410 samppoints)  EVENT1
+ 0: 9: 9 (137472 samppoints)  EVENT1
+ 0: 9:10 (137535 samppoints)  EVENT1
+ 0: 9:10 (137597 samppoints)  EVENT1
+ 0: 9:10 (137660 samppoints)  EVENT1
+ 0: 9:10 (137723 samppoints)  EVENT1
+ 0: 9:11 (137785 samppoints)  EVENT1
+ 0: 9:11 (137847 samppoints)  EVENT1
+ 0: 9:11 (137910 samppoints)  EVENT1
+ 0: 9:11 (137972 samppoints)  EVENT1
+ 0: 9:12 (138035 samppoints)  EVENT1
+ 0: 9:12 (138097 samppoints)  EVENT1
+ 0: 9:18 (139689 samppoints)  EVENT1
+ 0: 9:19 (139937 samppoints)  EVENT1
+ 0: 9:20 (140001 samppoints)  EVENT1
+ 0: 9:20 (140063 samppoints)  EVENT1
+ 0: 9:20 (140125 samppoints)  EVENT1
+ 0: 9:20 (140187 samppoints)  EVENT1
+ 0: 9:21 (140251 samppoints)  EVENT1
+ 0: 9:21 (140311 samppoints)  EVENT1
+ 0:13:18 (199647 samppoints)  EVENT1
+ 0:13:19 (199803 samppoints)  EVENT1
+ 0:13:19 (199867 samppoints)  EVENT1
+ 0:13:19 (199928 samppoints)  EVENT1
+ 0:13:19 (199991 samppoints)  EVENT1
+ 0:13:20 (200053 samppoints)  EVENT1
+ 0:13:20 (200116 samppoints)  EVENT1
+ 0:13:20 (200178 samppoints)  EVENT1
+ 0:13:28 (202032 samppoints)  EVENT1
+ 0:13:29 (202285 samppoints)  EVENT1
+ 0:13:29 (202347 samppoints)  EVENT1
+ 0:13:29 (202408 samppoints)  EVENT1
+ 0:13:29 (202470 samppoints)  EVENT1
+ 0:13:30 (202535 samppoints)  EVENT1
+ 0:13:30 (202597 samppoints)  EVENT1
+ 0:13:30 (202659 samppoints)  EVENT1
+ 0:13:30 (202721 samppoints)  EVENT1
+ 0:13:58 (209715 samppoints)  EVENT1
+ 0:13:59 (209871 samppoints)  EVENT1
+ 0:13:59 (209934 samppoints)  EVENT1
+ 0:13:59 (209996 samppoints)  EVENT1
+ 0:14: 0 (210059 samppoints)  EVENT1
+ 0:14: 0 (210121 samppoints)  EVENT1
+ 0:14: 0 (210184 samppoints)  EVENT1
+ 0:14: 0 (210246 samppoints)  EVENT1
+ 0:14: 1 (210309 samppoints)  EVENT1
+ 0:14: 9 (212381 samppoints)  EVENT1
+ 0:14:10 (212632 samppoints)  EVENT1
+ 0:14:10 (212693 samppoints)  EVENT1
+ 0:14:11 (212758 samppoints)  EVENT1
+ 0:14:11 (212820 samppoints)  EVENT1
+ 0:14:11 (212881 samppoints)  EVENT1
+ 0:14:11 (212943 samppoints)  EVENT1
+ 0:14:12 (213007 samppoints)  EVENT1
+ 0:14:12 (213069 samppoints)  EVENT1
+ 0:14:12 (213131 samppoints)  EVENT1
+ 0:15: 9 (227475 samppoints)  EVENT1
+ 0:15:10 (227662 samppoints)  EVENT1
+ 0:15:10 (227725 samppoints)  EVENT1
+ 0:15:11 (227787 samppoints)  EVENT1
+ 0:15:11 (227850 samppoints)  EVENT1
+ 0:15:11 (227912 samppoints)  EVENT1
+ 0:15:11 (227975 samppoints)  EVENT1
+ 0:15:12 (228037 samppoints)  EVENT1
+ 0:15:12 (228100 samppoints)  EVENT1
+ 0:15:12 (228162 samppoints)  EVENT1
+ 0:15:16 (229086 samppoints)  EVENT1
+ 0:15:17 (229335 samppoints)  EVENT1
+ 0:15:17 (229398 samppoints)  EVENT1
+ 0:15:17 (229460 samppoints)  EVENT1
+ 0:15:18 (229523 samppoints)  EVENT1
+ 0:25:28 (382178 samppoints)  EVENT1
+ 0:25:29 (382334 samppoints)  EVENT1
+ 0:25:29 (382397 samppoints)  EVENT1
+ 0:25:29 (382459 samppoints)  EVENT1
+ 0:25:30 (382523 samppoints)  EVENT1
+ 0:25:37 (384499 samppoints)  EVENT1
+ 0:25:38 (384748 samppoints)  EVENT1
+ 0:25:39 (384809 samppoints)  EVENT1
+ 0:25:39 (384871 samppoints)  EVENT1
+ 0:25:39 (384933 samppoints)  EVENT1
+ 0:25:39 (384998 samppoints)  EVENT1
+ 0:25:40 (385060 samppoints)  EVENT1
+ 0:25:40 (385121 samppoints)  EVENT1
+ 0:25:40 (385184 samppoints)  EVENT1
+ 0:25:40 (385246 samppoints)  EVENT1
+ 0:25:58 (389623 samppoints)  EVENT1
+ 0:25:59 (389781 samppoints)  EVENT1
+ 0:25:59 (389843 samppoints)  EVENT1
+ 0:25:59 (389906 samppoints)  EVENT1
+ 0:25:59 (389968 samppoints)  EVENT1
+ 0:26: 0 (390030 samppoints)  EVENT1
+ 0:26: 0 (390093 samppoints)  EVENT1
+ 0:26: 0 (390155 samppoints)  EVENT1
+ 0:26: 0 (390219 samppoints)  EVENT1
+ 0:26: 1 (390281 samppoints)  EVENT1
+ 0:26: 9 (392384 samppoints)  EVENT1
+ 0:26:10 (392635 samppoints)  EVENT1
+ 0:26:10 (392696 samppoints)  EVENT1
+ 0:26:11 (392759 samppoints)  EVENT1
+ 0:26:11 (392822 samppoints)  EVENT1
+ 0:26:11 (392884 samppoints)  EVENT1
+ 0:26:11 (392947 samppoints)  EVENT1
+ 0:26:12 (393009 samppoints)  EVENT1
+ 0:26:12 (393072 samppoints)  EVENT1
+ 0:26:12 (393134 samppoints)  EVENT1
+ 0:26:12 (393197 samppoints)  EVENT1
+ 0:26:33 (398471 samppoints)  EVENT1
+ 0:26:34 (398628 samppoints)  EVENT1
+ 0:26:34 (398690 samppoints)  EVENT1
+ 0:26:35 (398753 samppoints)  EVENT1
+ 0:26:35 (398816 samppoints)  EVENT1
+ 0:26:35 (398878 samppoints)  EVENT1
+ 0:26:35 (398941 samppoints)  EVENT1
+ 0:26:36 (399003 samppoints)  EVENT1
+ 0:26:36 (399067 samppoints)  EVENT1
+ 0:26:36 (399128 samppoints)  EVENT1
+ 0:26:36 (399191 samppoints)  EVENT1
+ 0:26:40 (400165 samppoints)  EVENT1
+ 0:26:41 (400414 samppoints)  EVENT1
+ 0:26:41 (400476 samppoints)  EVENT1
+ 0:26:42 (400541 samppoints)  EVENT1
+ 0:26:42 (400603 samppoints)  EVENT1
+ 0:26:42 (400667 samppoints)  EVENT1
+ 0:26:42 (400729 samppoints)  EVENT1
+ 0:26:43 (400792 samppoints)  EVENT1
+ 0:26:43 (400854 samppoints)  EVENT1
+ 0:26:43 (400917 samppoints)  EVENT1
+ 0:26:43 (400979 samppoints)  EVENT1
+ 0:26:44 (401042 samppoints)  EVENT1
+ 0:26:44 (401105 samppoints)  EVENT1
+ 0:26:44 (401167 samppoints)  EVENT1
+ 0:26:44 (401230 samppoints)  EVENT1
+ 0:26:45 (401292 samppoints)  EVENT1
+ 0:26:45 (401420 samppoints)  EVENT1
+ 0:26:46 (401576 samppoints)  EVENT1
+ 0:26:46 (401638 samppoints)  EVENT1
+ 0:26:46 (401701 samppoints)  EVENT1
+ 0:26:47 (401763 samppoints)  EVENT1
+ 0:26:47 (401826 samppoints)  EVENT1
+ 0:26:47 (401888 samppoints)  EVENT1
+ 0:26:47 (401951 samppoints)  EVENT1
+ 0:26:48 (402013 samppoints)  EVENT1
+ 0:26:48 (402076 samppoints)  EVENT1
+ 0:26:48 (402139 samppoints)  EVENT1
+ 0:26:48 (402201 samppoints)  EVENT1
+ 0:26:49 (402263 samppoints)  EVENT1
+ 0:26:49 (402326 samppoints)  EVENT1
+ 0:26:49 (402388 samppoints)  EVENT1
+ 0:26:49 (402451 samppoints)  EVENT1
+ 0:27:46 (416507 samppoints)  EVENT2
+ 0:28:20 (425006 samppoints)  EVENT1
+ 0:28:55 (433895 samppoints)  EVENT1
+ 0:29:13 (438395 samppoints)  EVENT2
+ 0:29:13 (438497 samppoints)  EVENT2
+ 0:29:55 (448910 samppoints)  EVENT1
+ 0:30: 0 (450104 samppoints)  EVENT1
+ 0:30: 0 (450192 samppoints)  EVENT1
+ 0:32:20 (485031 samppoints)  EVENT2
+ 0:32:20 (485099 samppoints)  EVENT2
+ 0:32:20 (485167 samppoints)  EVENT2
+ 0:32:20 (485225 samppoints)  EVENT2
+ 1:55:45 (1736270 samppoints)  EVENT1
+ 1:55:45 (1736289 samppoints)  EVENT2
+ 1:55:45 (1736420 samppoints)  EVENT2
+ 1:55:45 (1736432 samppoints)  EVENT2
+ 2: 1:25 (1821316 samppoints)  EVENT1
+ 2: 1:26 (1821566 samppoints)  EVENT1
+ 2: 1:26 (1821628 samppoints)  EVENT1
+ 2: 1:26 (1821691 samppoints)  EVENT1
+ 2: 1:27 (1821753 samppoints)  EVENT1
+ 2: 1:27 (1821816 samppoints)  EVENT1
+ 2: 1:27 (1821878 samppoints)  EVENT1
+ 2: 1:27 (1821941 samppoints)  EVENT1
+ 2: 1:28 (1822003 samppoints)  EVENT1
+ 2: 1:28 (1822065 samppoints)  EVENT1
+ 2: 1:28 (1822128 samppoints)  EVENT1
+ 2: 1:28 (1822190 samppoints)  EVENT1
+ 2: 1:30 (1822721 samppoints)  EVENT1
+ 2: 1:31 (1822877 samppoints)  EVENT1
+ 2: 1:31 (1822939 samppoints)  EVENT1
+ 2: 1:32 (1823003 samppoints)  EVENT1
+ 2: 1:32 (1823064 samppoints)  EVENT1
+ 2: 1:32 (1823127 samppoints)  EVENT1
+ 2: 1:32 (1823189 samppoints)  EVENT1
+ 2: 1:33 (1823252 samppoints)  EVENT1
+ 2: 1:33 (1823314 samppoints)  EVENT1
+ 2: 1:33 (1823377 samppoints)  EVENT1
+ 2: 1:33 (1823439 samppoints)  EVENT1
+ 2: 1:34 (1823502 samppoints)  EVENT1
+ 2: 1:38 (1824531 samppoints)  EVENT1
+ 2: 1:39 (1824781 samppoints)  EVENT1
+ 2: 1:39 (1824844 samppoints)  EVENT1
+ 2: 1:39 (1824907 samppoints)  EVENT1
+ 2: 1:39 (1824969 samppoints)  EVENT1
+ 2: 1:40 (1825032 samppoints)  EVENT1
+ 2: 1:40 (1825094 samppoints)  EVENT1
+ 2: 1:40 (1825157 samppoints)  EVENT1
+ 2: 1:40 (1825219 samppoints)  EVENT1
+ 2: 1:41 (1825282 samppoints)  EVENT1
+ 2: 1:41 (1825345 samppoints)  EVENT1
+ 2: 1:41 (1825407 samppoints)  EVENT1
+ 2: 1:41 (1825471 samppoints)  EVENT1
+ 2: 1:42 (1825533 samppoints)  EVENT1
+ 2: 1:42 (1825596 samppoints)  EVENT1
+ 2: 1:48 (1827167 samppoints)  EVENT1
+ 2: 1:49 (1827324 samppoints)  EVENT1
+ 2: 1:49 (1827387 samppoints)  EVENT1
+ 2: 1:49 (1827449 samppoints)  EVENT1
+ 2: 1:50 (1827511 samppoints)  EVENT1
+ 2: 1:50 (1827574 samppoints)  EVENT1
+ 2: 1:50 (1827636 samppoints)  EVENT1
+ 2: 1:50 (1827699 samppoints)  EVENT1
+ 2: 1:51 (1827761 samppoints)  EVENT1
+ 2: 1:51 (1827824 samppoints)  EVENT1
+ 2: 1:51 (1827887 samppoints)  EVENT1
+ 2: 1:51 (1827949 samppoints)  EVENT1
+ 2: 1:52 (1828012 samppoints)  EVENT1
+ 2: 1:52 (1828075 samppoints)  EVENT1
+ 2: 1:52 (1828137 samppoints)  EVENT1
+ 2: 2: 1 (1830446 samppoints)  EVENT1
+ 2: 2: 2 (1830696 samppoints)  EVENT1
+ 2: 2: 3 (1830759 samppoints)  EVENT1
+ 2: 2: 3 (1830822 samppoints)  EVENT1
+ 2: 2: 3 (1830885 samppoints)  EVENT1
+ 2: 2: 3 (1830948 samppoints)  EVENT1
+ 2: 2: 4 (1831012 samppoints)  EVENT1
+ 2: 3:47 (1856821 samppoints)  EVENT1
+ 2: 3:47 (1856977 samppoints)  EVENT1
+ 2: 3:48 (1857040 samppoints)  EVENT1
+ 2: 3:48 (1857102 samppoints)  EVENT1
+ 2: 3:48 (1857165 samppoints)  EVENT1
+ 2: 3:48 (1857227 samppoints)  EVENT1
+ 2: 3:49 (1857290 samppoints)  EVENT1
+ 2: 4:26 (1866514 samppoints)  EVENT1
+ 2: 4:26 (1866707 samppoints)  EVENT1
+ 2: 4:27 (1866957 samppoints)  EVENT1
+ 2: 4:28 (1867019 samppoints)  EVENT1
+ 2: 7:30 (1912590 samppoints)  EVENT1
+ 2: 7:30 (1912690 samppoints)  EVENT1
+ 2: 7:31 (1912846 samppoints)  EVENT1
+ 2: 7:31 (1912909 samppoints)  EVENT1
+ 2: 7:37 (1914313 samppoints)  EVENT1
+ 2: 7:38 (1914559 samppoints)  EVENT1
+ 2: 7:38 (1914622 samppoints)  EVENT1
+ 2: 7:38 (1914684 samppoints)  EVENT1
+ 2: 7:38 (1914747 samppoints)  EVENT1
+ 2: 7:39 (1914809 samppoints)  EVENT1
+ 2: 7:39 (1914872 samppoints)  EVENT1
+ 2: 7:39 (1914935 samppoints)  EVENT1
+ 2: 7:39 (1914997 samppoints)  EVENT1
+ 2: 7:40 (1915060 samppoints)  EVENT1
+ 2: 7:40 (1915122 samppoints)  EVENT1
+ 2: 7:40 (1915185 samppoints)  EVENT1
+ 2: 7:40 (1915247 samppoints)  EVENT1
+ 2: 7:41 (1915310 samppoints)  EVENT1
+ 2: 7:41 (1915373 samppoints)  EVENT1
+ 2: 8:45 (1931376 samppoints)  EVENT1
+ 2: 8:46 (1931532 samppoints)  EVENT1
+ 2: 8:46 (1931595 samppoints)  EVENT1
+ 2: 8:46 (1931657 samppoints)  EVENT1
+ 2: 8:46 (1931720 samppoints)  EVENT1
+ 2: 8:47 (1931782 samppoints)  EVENT1
+ 2: 8:47 (1931845 samppoints)  EVENT1
+ 2: 8:47 (1931908 samppoints)  EVENT1
+ 2: 8:47 (1931970 samppoints)  EVENT1
+ 2: 8:48 (1932033 samppoints)  EVENT1
+ 2: 8:48 (1932095 samppoints)  EVENT1
+ 2: 8:48 (1932158 samppoints)  EVENT1
+ 2: 8:48 (1932220 samppoints)  EVENT1
+ 2: 8:49 (1932283 samppoints)  EVENT1
+ 2: 8:49 (1932346 samppoints)  EVENT1
+ 2: 8:55 (1933890 samppoints)  EVENT1
+ 2: 8:56 (1934140 samppoints)  EVENT1
+ 2: 8:56 (1934201 samppoints)  EVENT1
+ 2: 8:57 (1934263 samppoints)  EVENT1
+ 2: 8:57 (1934328 samppoints)  EVENT1
+ 2: 8:57 (1934390 samppoints)  EVENT1
+ 2: 8:57 (1934452 samppoints)  EVENT1
+ 2: 8:58 (1934516 samppoints)  EVENT1
+ 2:12:55 (1993851 samppoints)  EVENT1
+ 2:12:56 (1994006 samppoints)  EVENT1
+ 2:12:56 (1994069 samppoints)  EVENT1
+ 2:12:56 (1994131 samppoints)  EVENT1
+ 2:12:56 (1994194 samppoints)  EVENT1
+ 2:12:57 (1994256 samppoints)  EVENT1
+ 2:12:57 (1994319 samppoints)  EVENT1
+ 2:12:57 (1994381 samppoints)  EVENT1
+ 2:13: 9 (1997417 samppoints)  EVENT1
+ 2:13:10 (1997666 samppoints)  EVENT1
+ 2:13:10 (1997727 samppoints)  EVENT1
+ 2:13:11 (1997789 samppoints)  EVENT1
+ 2:13:11 (1997851 samppoints)  EVENT1
+ 2:13:11 (1997916 samppoints)  EVENT1
+ 2:13:11 (1997978 samppoints)  EVENT1
+ 2:13:12 (1998039 samppoints)  EVENT1
+ 2:13:12 (1998101 samppoints)  EVENT1
+ 2:13:39 (2004994 samppoints)  EVENT1
+ 2:13:40 (2005150 samppoints)  EVENT1
+ 2:13:40 (2005212 samppoints)  EVENT1
+ 2:13:41 (2005275 samppoints)  EVENT1
+ 2:13:41 (2005338 samppoints)  EVENT1
+ 2:13:41 (2005400 samppoints)  EVENT1
+ 2:13:41 (2005463 samppoints)  EVENT1
+ 2:13:42 (2005525 samppoints)  EVENT1
+ 2:13:42 (2005588 samppoints)  EVENT1
+ 2:13:46 (2006635 samppoints)  EVENT1
+ 2:13:47 (2006883 samppoints)  EVENT1
+ 2:13:47 (2006947 samppoints)  EVENT1
+ 2:13:48 (2007008 samppoints)  EVENT1
+ 2:13:48 (2007073 samppoints)  EVENT1
+ 2:13:48 (2007133 samppoints)  EVENT1
+ 2:13:48 (2007198 samppoints)  EVENT1
+ 2:13:49 (2007259 samppoints)  EVENT1
+ 2:13:49 (2007320 samppoints)  EVENT1
+ 2:13:49 (2007383 samppoints)  EVENT1
+ 2:14:46 (2021725 samppoints)  EVENT1
+ 2:14:47 (2021883 samppoints)  EVENT1
+ 2:14:47 (2021944 samppoints)  EVENT1
+ 2:14:48 (2022007 samppoints)  EVENT1
+ 2:14:48 (2022069 samppoints)  EVENT1
+ 2:14:48 (2022132 samppoints)  EVENT1
+ 2:14:48 (2022195 samppoints)  EVENT1
+ 2:14:49 (2022257 samppoints)  EVENT1
+ 2:14:49 (2022320 samppoints)  EVENT1
+ 2:14:49 (2022382 samppoints)  EVENT1
+ 2:14:53 (2023299 samppoints)  EVENT1
+ 2:14:54 (2023549 samppoints)  EVENT1
+ 2:14:54 (2023611 samppoints)  EVENT1
+ 2:14:54 (2023674 samppoints)  EVENT1
+ 2:14:54 (2023736 samppoints)  EVENT1
+ 2:25: 5 (2176368 samppoints)  EVENT1
+ 2:25: 6 (2176525 samppoints)  EVENT1
+ 2:25: 6 (2176587 samppoints)  EVENT1
+ 2:25: 6 (2176650 samppoints)  EVENT1
+ 2:25: 6 (2176712 samppoints)  EVENT1
+ 2:25:14 (2178719 samppoints)  EVENT1
+ 2:25:15 (2178971 samppoints)  EVENT1
+ 2:25:16 (2179031 samppoints)  EVENT1
+ 2:25:16 (2179095 samppoints)  EVENT1
+ 2:25:16 (2179154 samppoints)  EVENT1
+ 2:25:16 (2179221 samppoints)  EVENT1
+ 2:25:17 (2179281 samppoints)  EVENT1
+ 2:25:17 (2179343 samppoints)  EVENT1
+ 2:25:17 (2179406 samppoints)  EVENT1
+ 2:25:17 (2179468 samppoints)  EVENT1
+ 2:25:32 (2183071 samppoints)  EVENT1
+ 2:25:32 (2183228 samppoints)  EVENT1
+ 2:25:33 (2183291 samppoints)  EVENT1
+ 2:25:33 (2183353 samppoints)  EVENT1
+ 2:25:33 (2183416 samppoints)  EVENT1
+ 2:25:33 (2183478 samppoints)  EVENT1
+ 2:25:34 (2183541 samppoints)  EVENT1
+ 2:25:34 (2183600 samppoints)  EVENT1
+ 2:25:34 (2183663 samppoints)  EVENT1
+ 2:25:34 (2183725 samppoints)  EVENT1
+ 2:25:41 (2185391 samppoints)  EVENT1
+ 2:25:42 (2185641 samppoints)  EVENT1
+ 2:25:42 (2185704 samppoints)  EVENT1
+ 2:25:43 (2185766 samppoints)  EVENT1
+ 2:25:43 (2185829 samppoints)  EVENT1
+ 2:25:43 (2185891 samppoints)  EVENT1
+ 2:25:43 (2185954 samppoints)  EVENT1
+ 2:25:44 (2186017 samppoints)  EVENT1
+ 2:25:44 (2186079 samppoints)  EVENT1
+ 2:25:44 (2186142 samppoints)  EVENT1
+ 2:25:44 (2186204 samppoints)  EVENT1
+ 2:26: 5 (2191495 samppoints)  EVENT1
+ 2:26: 6 (2191652 samppoints)  EVENT1
+ 2:26: 6 (2191714 samppoints)  EVENT1
+ 2:26: 7 (2191777 samppoints)  EVENT1
+ 2:26: 7 (2191839 samppoints)  EVENT1
+ 2:26: 7 (2191902 samppoints)  EVENT1
+ 2:26: 7 (2191964 samppoints)  EVENT1
+ 2:26: 8 (2192027 samppoints)  EVENT1
+ 2:26: 8 (2192089 samppoints)  EVENT1
+ 2:26: 8 (2192152 samppoints)  EVENT1
+ 2:26: 8 (2192214 samppoints)  EVENT1
+ 2:26:12 (2193083 samppoints)  EVENT1
+ 2:26:13 (2193334 samppoints)  EVENT1
+ 2:26:13 (2193397 samppoints)  EVENT1
+ 2:26:13 (2193460 samppoints)  EVENT1
+ 2:26:14 (2193526 samppoints)  EVENT1
+ 2:26:14 (2193589 samppoints)  EVENT1
+ 2:26:14 (2193650 samppoints)  EVENT1
+ 2:26:14 (2193712 samppoints)  EVENT1
+ 2:26:15 (2193775 samppoints)  EVENT1
+ 2:26:15 (2193836 samppoints)  EVENT1
+ 2:26:15 (2193898 samppoints)  EVENT1
+ 2:26:15 (2193962 samppoints)  EVENT1
+ 2:26:16 (2194055 samppoints)  EVENT1
+ 2:26:16 (2194118 samppoints)  EVENT1
+ 2:26:16 (2194181 samppoints)  EVENT1
+ 2:26:16 (2194243 samppoints)  EVENT1
+ 2:26:17 (2194372 samppoints)  EVENT1
+ 2:26:18 (2194529 samppoints)  EVENT1
+ 2:26:18 (2194591 samppoints)  EVENT1
+ 2:26:18 (2194654 samppoints)  EVENT1
+ 2:26:18 (2194716 samppoints)  EVENT1
+ 2:26:19 (2194779 samppoints)  EVENT1
+ 2:26:19 (2194841 samppoints)  EVENT1
+ 2:26:19 (2194904 samppoints)  EVENT1
+ 2:26:19 (2194966 samppoints)  EVENT1
+ 2:26:20 (2195029 samppoints)  EVENT1
+ 2:26:20 (2195091 samppoints)  EVENT1
+ 2:26:20 (2195154 samppoints)  EVENT1
+ 2:26:20 (2195216 samppoints)  EVENT1
+ 2:26:21 (2195279 samppoints)  EVENT1
+ 2:26:21 (2195341 samppoints)  EVENT1
+ 2:26:21 (2195404 samppoints)  EVENT1
+ 2:27:21 (2210303 samppoints)  EVENT2
+ 2:27:52 (2218038 samppoints)  EVENT1
+ 2:28:11 (2222968 samppoints)  EVENT2
+ 2:28:12 (2223247 samppoints)  EVENT2
+ 2:28:13 (2223293 samppoints)  EVENT2
+ 2:28:46 (2231668 samppoints)  EVENT1
+ 2:28:46 (2231716 samppoints)  EVENT1
+ 2:28:50 (2232643 samppoints)  EVENT1
+ 2:30:21 (2255275 samppoints)  EVENT1
+ 2:30:21 (2255342 samppoints)  EVENT1
+ 2:30:21 (2255391 samppoints)  EVENT1
+ 2:30:21 (2255449 samppoints)  EVENT1
